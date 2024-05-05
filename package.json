@@ -1,0 +1,12 @@
+{
+    "dependencies": {
+        "@chainlink/contracts": "^0.5.1",
+        "@remix-project/remixd": "^0.6.31",
+        "hardhat": "^2.12.4",
+        "remixd": "^0.2.4"
+    },
+    "devDependencies": {
+        "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+        "ethers": "^5.7.2"
+    }
+}
